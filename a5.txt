@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Zrk editou isso
 
 5 ilusionistas roubam pessoas e esquemas milionarios ao redor do mundo com mágica :D
+=======
+O filme conta a história de 5 artistas que querem desmascarar charlatões. Com seus talentos eles acabam com organizações secretas poderosas e milinárias. 
+Eles usam a art da enganação para isso! 
+>>>>>>> 58b76a78c9de3c8ba812eb83d89328d3c8b69ff5
